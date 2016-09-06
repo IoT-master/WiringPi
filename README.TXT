@@ -1,5 +1,4 @@
 Example of use:
-git clone git://git.drogon.net/wiringPi
 cd wiringPi
 ./build
 sudo chown pi.pi /rfoutlet/codesend
