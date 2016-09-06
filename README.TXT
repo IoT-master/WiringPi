@@ -1,3 +1,10 @@
+Example of use:
+git clone git://git.drogon.net/wiringPi
+cd wiringPi
+./build
+sudo chown pi.pi /rfoutlet/codesend
+sudo /var/www/rfoutlet/RFSniffer
+sudo /rfoutlet/codesend 4478259
 
 wiringPi README
 ===============
